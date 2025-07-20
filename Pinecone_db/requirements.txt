@@ -1,0 +1,8 @@
+pinecone-client
+pinecone-text
+pinecone-notebooks
+ipykernel
+langchain_community
+pinecone
+langchain_huggingface
+sentence-transformers
